@@ -18,7 +18,7 @@ VALUES (001, Sales Lead, salary, department_id),
        (008, title, salary, department_id);
 
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
-VALUES (001, first_name, last_name, role_id, manager_id),
+VALUES (001, John, Leabawitz, role_id, manager_id),
        (001, first_name, last_name, role_id, manager_id),
        (001, first_name, last_name, role_id, manager_id),
        (001, first_name, last_name, role_id, manager_id);
